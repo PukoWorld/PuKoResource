@@ -1,0 +1,19 @@
+{
+  "name": "pukoworld_pures",
+  "version": "1.0.0",
+  "description": "EN : A key-value file format.  \r CN : 一種鍵對值的檔案格式。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PukoWorld/PuKoResource.git"
+  },
+  "author": "Puko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PukoWorld/PuKoResource/issues"
+  },
+  "homepage": "https://github.com/PukoWorld/PuKoResource#readme"
+}
